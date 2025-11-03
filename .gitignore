@@ -1,0 +1,14 @@
+# Ignore the virtual environment
+tf-env/
+
+# Ignore the dataset (it's too big for GitHub)
+data/
+
+# Ignore the trained models
+models/
+
+# Ignore Python cache files
+__pycache__/
+
+# Ignore the drowsy capture images
+*.jpg
