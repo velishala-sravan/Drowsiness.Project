@@ -1,4 +1,4 @@
-# 👁️ Real-Time Driver Drowsiness Detection System
+#  Real-Time Driver Drowsiness Detection System
 
 This is a real-time driver drowsiness detection system. It uses a webcam and a deep learning model to track the driver's eyes, and automatically plays an alarm to alert them if they start to fall asleep at the wheel.
 
@@ -6,7 +6,7 @@ The goal of this project is to prevent road accidents caused by driver fatigue.
 
 Drivers falling asleep at the wheel is a major cause of accidents. This system acts as an "active safety" co-pilot that monitors the driver's state of alertness. By sounding an alarm before the driver completely falls asleep, it provides a critical warning that can prevent a serious or fatal crash.
 
-## 🚀 Features
+##  Features
 
 * **Real-Time Face & Eye Detection:** Uses Haar Cascade classifiers to find the driver's face and eyes from a webcam feed.
 * **Deep Learning Model:** Employs a CNN trained to classify eyes as **'Open'** or **'Closed'**.
